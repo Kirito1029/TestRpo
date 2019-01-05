@@ -1,7 +1,7 @@
 versions:
 - version: CIRRUS_RESOURCE_CONFIG_001
   dependencies:
-    - TEST
+    - TEST_1
   upgrade:
     action: user-specified
     order:

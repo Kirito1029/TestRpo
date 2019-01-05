@@ -1,4 +1,4 @@
-version: 0.3
+version: 0.1
 provider: gcp                 # Cloud provider
 subscription: amplified-bee-212211   # The gcp project or the azure subscription name
 network: sp2-devnet-devproject      # string type indicating the name of the network
